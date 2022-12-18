@@ -15,7 +15,7 @@ public class maxSUBARRAY_sum {
 
         }
     }
-   //  not write
+   //  not correct
    //// hi hjlkdfjasd
     
 }
