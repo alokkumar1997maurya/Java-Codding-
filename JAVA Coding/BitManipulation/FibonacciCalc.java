@@ -9,7 +9,7 @@ public class FibonacciCalc{
 	return fibonacciRecursion(n-2) + fibonacciRecursion(n-1);
 	}
     public static void main(String args[]) {
-	int maxNumber = 10;
+	int maxNumber = 20;
 	System.out.print("Fibonacci Series of "+maxNumber+" numbers: ");
 	for(int i = 0; i < maxNumber; i++){
 			System.out.print(fibonacciRecursion(i) +" ");
