@@ -1,3 +1,4 @@
+package Recurtion;
 public class PrintArray {
     public static void PrintArrayUsingRecursion(int[] arr, int idx) {
         if(idx==arr.length){
