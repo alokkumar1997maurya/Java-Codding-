@@ -9,5 +9,11 @@ public class PArrayList {
         list.add(36);
         list.add(1,11);
         System.out.println(list);
+
+        list.set(1, 100);
+        System.out.println(list);
+        list.remove(3);
+        System.out.println(list);
+        System.out.println(list.size());
     }
 }
