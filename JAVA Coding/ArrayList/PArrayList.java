@@ -15,5 +15,7 @@ public class PArrayList {
         list.remove(3);
         System.out.println(list);
         System.out.println(list.size());
+        System.out.println(list.remove(Integer.valueOf(1)));
+        System.out.println(list.contains(100));
     }
 }
